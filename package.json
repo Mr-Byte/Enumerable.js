@@ -1,0 +1,12 @@
+{
+    "name": "Enumerable.js",
+    "description": "Lazily-evaluated collections for performing data transforms on arrays",
+    "version": "0.1.0",
+    "author": "Joshua R. Rodgers",
+    "devDependencies": {
+      "expresso": ">=0.9.0"  
+    },
+    "scripts": {
+        "test": "expresso test/*"
+    }
+}
